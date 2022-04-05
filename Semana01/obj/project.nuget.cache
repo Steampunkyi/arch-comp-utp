@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fSkKYp1/xidV98hu5qrVKgZKJqDdLn1uVExi6BqX41YwWOFXfHHIjDSDSCTqyI+KMn5i+6R/Rkl9HoTOAHnAVg==",
+  "success": true,
+  "projectFilePath": "/home/steampunkyi/Documents/Repositorios/arch-comp-utp/Semana01/Semana01.csproj",
+  "expectedPackageFiles": [
+    "/home/steampunkyi/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

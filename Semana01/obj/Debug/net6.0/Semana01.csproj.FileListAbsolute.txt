@@ -1,0 +1,15 @@
+/home/steampunkyi/Documents/Repositorios/arch-comp-utp/Semana01/bin/Debug/net6.0/Semana01
+/home/steampunkyi/Documents/Repositorios/arch-comp-utp/Semana01/bin/Debug/net6.0/Semana01.deps.json
+/home/steampunkyi/Documents/Repositorios/arch-comp-utp/Semana01/bin/Debug/net6.0/Semana01.runtimeconfig.json
+/home/steampunkyi/Documents/Repositorios/arch-comp-utp/Semana01/bin/Debug/net6.0/Semana01.dll
+/home/steampunkyi/Documents/Repositorios/arch-comp-utp/Semana01/bin/Debug/net6.0/ref/Semana01.dll
+/home/steampunkyi/Documents/Repositorios/arch-comp-utp/Semana01/bin/Debug/net6.0/Semana01.pdb
+/home/steampunkyi/Documents/Repositorios/arch-comp-utp/Semana01/obj/Debug/net6.0/Semana01.csproj.AssemblyReference.cache
+/home/steampunkyi/Documents/Repositorios/arch-comp-utp/Semana01/obj/Debug/net6.0/Semana01.GeneratedMSBuildEditorConfig.editorconfig
+/home/steampunkyi/Documents/Repositorios/arch-comp-utp/Semana01/obj/Debug/net6.0/Semana01.AssemblyInfoInputs.cache
+/home/steampunkyi/Documents/Repositorios/arch-comp-utp/Semana01/obj/Debug/net6.0/Semana01.AssemblyInfo.cs
+/home/steampunkyi/Documents/Repositorios/arch-comp-utp/Semana01/obj/Debug/net6.0/Semana01.csproj.CoreCompileInputs.cache
+/home/steampunkyi/Documents/Repositorios/arch-comp-utp/Semana01/obj/Debug/net6.0/Semana01.dll
+/home/steampunkyi/Documents/Repositorios/arch-comp-utp/Semana01/obj/Debug/net6.0/ref/Semana01.dll
+/home/steampunkyi/Documents/Repositorios/arch-comp-utp/Semana01/obj/Debug/net6.0/Semana01.pdb
+/home/steampunkyi/Documents/Repositorios/arch-comp-utp/Semana01/obj/Debug/net6.0/Semana01.genruntimeconfig.cache
